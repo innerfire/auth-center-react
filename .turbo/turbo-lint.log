@@ -1,5 +1,0 @@
-
-> @innerfire/auth-center-react@0.1.0 lint /Users/jsonlee/Projects/fire/genaiw-demo/packages/account-center
-> eslint .
-
-Pages directory cannot be found at /Users/jsonlee/Projects/fire/genaiw-demo/packages/account-center/pages or /Users/jsonlee/Projects/fire/genaiw-demo/packages/account-center/src/pages. If using a custom path, please configure with the `no-html-link-for-pages` rule in your eslint config file.
